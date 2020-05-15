@@ -29,9 +29,9 @@
 
 **[예시]**
 
-https://github.com/**teddylee777/data-science-for-fun/blob/master/01-pandas/01-10mins-to-pandas/01_10mins_to_pandas.ipynb**
+**https://github.com/**teddylee777/data-science-for-fun/blob/master/01-pandas/01-10mins-to-pandas/01_10mins_to_pandas.ipynb
 
 
 
-https://colab.research.google.com/github/**teddylee777/data-science-for-fun/blob/master/01-pandas/01-10mins-to-pandas/01_10mins_to_pandas.ipynb**
+**https://colab.research.google.com/github/**teddylee777/data-science-for-fun/blob/master/01-pandas/01-10mins-to-pandas/01_10mins_to_pandas.ipynb
 

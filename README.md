@@ -23,15 +23,3 @@
 
 [테디노트](https://teddylee777.github.io) 를 운영하고 있으며, 이곳에 있는 대부분의 소스코드는 블로그에 게시된 포스팅의 원본 소스코드를 제공함에 그 목적이 있습니다.
 
-
-
-`.ipynb` 파일은 다음과 같이 변환하여 **colab**에서 바로 실습해 볼 수 있습니다.
-
-**[예시]**
-
-**https://github.com/**teddylee777/data-science-for-fun/blob/master/01-pandas/01-10mins-to-pandas/01_10mins_to_pandas.ipynb
-
-
-
-**https://colab.research.google.com/github/**teddylee777/data-science-for-fun/blob/master/01-pandas/01-10mins-to-pandas/01_10mins_to_pandas.ipynb
-
